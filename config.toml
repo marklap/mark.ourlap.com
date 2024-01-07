@@ -1,4 +1,7 @@
 baseURL = "http://mark.ourlap.com/"
 languageCode = "en-us"
 title = "@marklap blog"
-theme = "hugo-liftoff"
+theme = "smigle"
+
+[params]
+colorTheme = "dark"
