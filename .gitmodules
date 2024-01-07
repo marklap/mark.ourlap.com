@@ -1,0 +1,3 @@
+[submodule "themes/hugo-liftoff"]
+	path = themes/hugo-liftoff
+	url = git@github.com:marklap/hugo-liftoff.git
